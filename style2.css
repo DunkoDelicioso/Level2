@@ -1,0 +1,94 @@
+#hidden1{
+    width:40%;
+    position: absolute;
+    margin-left: 50px;
+    margin-top:5%;
+    color: white;
+    overflow: scroll;
+    height: 80%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+#hidden2{
+    width:40%;
+    position: absolute;
+    margin-left: 55%;
+    text-align: right;
+    margin-top:5%;
+    color: white;
+    overflow: scroll;
+    height: 80%;
+}
+
+html, body {
+ overflow: hidden;
+  }
+
+#text{
+    font-style: unset;
+    z-index: 9;
+    position: fixed;
+    text-shadow: 10px, 10px, red;
+    cursor: help;
+}
+
+#video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#garbage1{
+    z-index: 10;
+}
+
+.emojis{
+font-size: 150px;
+cursor: crosshair;
+position: absolute;
+}
+
+#One{
+
+}
+
+#Two{
+    display: none;
+}
+
+#Two{
+    display: none;
+}
+
+#Three{
+    display: none;
+}
+
+#Four{
+    display: none;
+}
+
+#Five{
+    display: none;
+}
+
+#Six{
+    display: none;
+}
+
+#Seven{
+    display: none;
+}
+
+#Eight{
+    display: none;
+}
+
+#Nine{
+    display: none;
+}
+
